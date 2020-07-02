@@ -1,11 +1,12 @@
 
 .boast{
-    color: chocolate;
-    background-color: burlywood;
+    color: #D2691D;
+    background-color:#DEB887;
 }
 .lists{
-    background-color: cadetblue;
+    background-color: #5F9Ea0;
     justify-content:space-evenly;
+        width: 250px;
     align-items:center;   
     align-self:flex-end;
     order: 4px;
