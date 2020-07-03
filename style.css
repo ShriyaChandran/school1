@@ -6,8 +6,27 @@
 .lists{
     background-color: #5F9Ea0;
     justify-content:space-evenly;
-        width: 250px;
+    width: 250px;
     align-items:center;   
     align-self:flex-end;
     order: 4px;
 }
+
+.home{
+    flex:display;
+    margin:20px;
+    padding:10px;
+
+}
+
+.extra p{ position: absolute; top: 50%; left:30%; transform: translate(-50%, -50%); opacity:0; } 
+.extra:hover p{ opacity: 1; }
+
+
+a:link{
+    color: crimson;
+}
+a:visited{
+    color:deepskyblue;
+}
+
